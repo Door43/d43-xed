@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xed:home|Door43 (xed)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xed|d43-xed repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xed/archive/master.zip|d43-xed.zip]]
+
+**Recent Changes**
+{{changes>ns = xed}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xed|Ethnologue data]]
+
